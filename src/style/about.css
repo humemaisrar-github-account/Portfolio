@@ -1,0 +1,13 @@
+.social{
+     display: flex;
+     width: 200px;
+     align-items: center;
+     justify-content:start;
+
+}
+.iconso{
+ font-size: 35px;
+ color: rgb(57, 86, 167);
+ margin-top: 10px;
+}
+
